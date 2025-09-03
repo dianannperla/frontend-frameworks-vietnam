@@ -1,0 +1,13 @@
+{
+  "name": "frontend-frameworks-vietnam",
+  "version": "1.0.0",
+  "description": "Dự án cung cấp tài liệu về frontend frameworks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
