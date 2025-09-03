@@ -1,5 +1,5 @@
 <script>
-  let message = 'Chào mừng đến với Svelte!';
+  let message = 'Welcome to Svelte!';
 </script>
 
 <h1>{message}</h1>
