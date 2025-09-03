@@ -1,2 +1,2 @@
 // Entry point for the application
-console.log('Welcome to Frontend Frameworks Vietnam!');
+console.log('Welcome to the Frontend Frameworks Vietnam community!');
